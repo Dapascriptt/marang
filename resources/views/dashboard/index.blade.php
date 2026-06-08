@@ -6,7 +6,7 @@
     <div class="d-flex flex-column flex-md-row justify-content-between gap-2 align-items-md-center mb-4">
         <div>
             <h1 class="h3 mb-1">Dashboard</h1>
-            <p class="text-muted mb-0">Ringkasan Data Inventory.</p>
+            <p class="text-muted mb-0">Ringkasan data inventory.</p>
         </div>
         <a href="{{ route('items.create') }}" class="btn btn-primary">Tambah Barang</a>
     </div>
